@@ -19,7 +19,7 @@ source "parallels-iso" "vault-client" {
   #boot_command          = ["<esc>", "linux /casper/vmlinuz"," quiet"," autoinstall"," ds='nocloud-net;s=http://{{.HTTPIP}}:{{.HTTPPort}}/'","<enter>","initrd /casper/initrd <enter>","boot <enter>"]
   # For 22.04 Ubuntu Server
   boot_command          = ["<esc>", "c", "linux /casper/vmlinuz"," quiet"," autoinstall"," ds='nocloud-net;s=http://{{.HTTPIP}}:{{.HTTPPort}}/'","<enter>","initrd /casper/initrd <enter>","boot <enter>"]
-  boot_wait               = "5s"
+  boot_wait               = "20s"
   disk_size               = 15000
   parallels_tools_flavor  = "lin-arm"
   guest_os_type           = "ubuntu"
@@ -32,7 +32,7 @@ source "parallels-iso" "vault-client" {
   shutdown_command        = "echo 'vagrant' | sudo -S shutdown -P now"
   ssh_wait_timeout        = "1800s"
   ssh_password            = "${local.user-ssh-password}"
-  ssh_timeout             = "20m"
+  ssh_timeout             = "45m"
   ssh_username            = "vagrant"
   parallels_tools_mode    = "upload"
   ssh_handshake_attempts  = "300"
