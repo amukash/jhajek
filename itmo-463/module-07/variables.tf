@@ -12,13 +12,12 @@
 
 # Default types are stings, lists, and maps
 
-variable "instance-type" {}
-variable "key-name" {}
-variable "az" { default = ["us-east-2a", "us-east-2b", "us-east-2c"] }
-variable "tag" {}
-variable "tg-name" {}
-variable "elb-name" {}
-variable "asg-name" {}
-variable "lt-name" {}
-variable "username" {}
-variable "snapshot_identifier" {}
+variable "instance_type" {
+  type        = string
+  description = "Password for the RDS database instance"
+  sensitive   = true
+}
+
+variable "item_tag" {
+  type        = string
+}

@@ -2,7 +2,7 @@
 
 ![*College of Computing*](images/CoC_horiz_lockup_2019.jpg "College of Computing Logo")
 
-Semester: Spring 2025 - Professor Jeremy Hajek
+Semester: Spring 2026 - Professor Jeremy Hajek
 
 ![*https://xkcd.com/1700/*](images/new_bug.png "All Software Engineering...")
 
@@ -51,19 +51,19 @@ Week | Date | Topic | Lab |
 1 | 01/12 | Introduction | Intro to Tooling Part I
 2 | 01/19 | No Class MLK Jr Day | -
 2 | 01/23 | Make up class day | Intro to Tooling Part II
-3 | 01/26 | The Three Ways Ch 2-4 | Intro to Tooling Part II
-4 | 02/02 | Where to Start Ch 5-6 | NA
-5 | 02/09 | Where to Start Ch 7-8 | Sprint 01 presentation
-6 | 02/16 | Technical Practices of Flow Ch 9-13 | NA
-7 | 02/23 | Technical Practices of Feedback Ch 14-18 | NA
-8 | 03/02 | Technical Practices of Learning Ch 19-21 | Sprint 02 presentation
-9 | 03/09 | Technical Practices of InfoSec Ch 22-23 | NA
+3 | 01/26 | The Three Ways Ch 1 | Intro to Tooling Part II
+4 | 02/02 | Where to Start Ch 2-5 | NA
+5 | 02/09 | Where to Start Ch 6-9 | ~~Sprint 01 presentation~~
+6 | 02/16 | Technical Practices of Flow Ch 10-13 | ~~NA~~ Sprint 01 presentation
+7 | 02/23 | Technical Practices of Feedback Ch 14-17 | NA
+8 | 03/02 | Technical Practices of Learning Ch 18-21 | ~~Sprint 02 presentation~~
+9 | 03/09 | Technical Practices of InfoSec Ch 22-23 | ~~NA~~ Sprint 02 presentation
 NA | 03/16 | Spring Break Week | NA
-10 | 03/23 | DevOps Solutions 2-3 | NA
-11 | 03/30 | DevOps Solutions 4-5 | Sprint 03 presentation
-12 | 04/06 | DevOps Solutions 6-7 | NA
-13 | 04/13 | DevOps Solutions 8-9 | Sprint 04 presentation
-14 | 04/20 | DevOps Solutions 10-12 | NA
+10 | 03/23 | DevOps Solutions 1-3 | ~~Sprint 03 presentation~~
+11 | 03/30 | DevOps Solutions 4-6 | ~~NA~~ Sprint 03 presentation
+12 | 04/06 | DevOps Solutions 7-8 | NA
+13 | 04/13 | DevOps Solutions 9-10 | Sprint 04 presentation
+14 | 04/20 | DevOps Solutions 11-12 | NA
 15 | 04/27 | Sprint 05 Final Presentation Day for everyone!
 16 | 05/05 | Final Exam Week | NA
 
